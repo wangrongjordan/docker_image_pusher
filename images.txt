@@ -1,4 +1,4 @@
 # 这是一个示例文件
 # docker-image-pusher 会同步下面的所有镜像
 nginx
-lovemenu/wewe-rss-sqlite:latest
+cooderl/wewe-rss-sqlite:latest
